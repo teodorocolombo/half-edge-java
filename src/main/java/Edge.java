@@ -1,5 +1,3 @@
-package br.edu.utfpr;
-
 import java.util.Objects;
 
 public class Edge {

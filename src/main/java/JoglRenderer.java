@@ -1,5 +1,3 @@
-package br.edu.utfpr;
-
 import com.jogamp.opengl.GL2;
 import com.jogamp.opengl.GLAutoDrawable;
 import com.jogamp.opengl.GLEventListener;
